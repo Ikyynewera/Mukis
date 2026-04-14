@@ -69,7 +69,8 @@ setInterval(() => {
 // =========================================
 // 🎧 DATA LAGU (FIX TOTAL)
 // =========================================
-const songs = [
+
+        const songs = [
     {
         title: "Monokrom",
         artist: "Tulus",
@@ -149,48 +150,49 @@ const songs = [
         src: "ingatkah.mp3"
     },
     {
-      title: "pemuja rahasia",
-      artist:"seila on 7",
-      img:"seila.jpeg",
-      src:"pemuja rahasia.mp3"
+        title: "pemuja rahasia",
+        artist: "seila on 7",
+        img: "seila.jpeg",
+        src: "pemuja rahasia.mp3"
     },
     {
-      title:"nanti kita seperti ini",
-      artist:"batas senjas",
-      img:"batas.jpeg",
-      src:"nanti kita seperti ini.mp3"
+        title: "nanti kita seperti ini",
+        artist: "batas senjas",
+        img: "batas.jpeg",
+        src: "nanti kita seperti ini.mp3"
     },
     {
-      title:"secukupnya",
-      artist:"hindia",
-      img:"secukupnya.jpeg",
-      src:"secukupnya.mp3"
+        title: "secukupnya",
+        artist: "hindia",
+        img: "secukupnya.jpeg",
+        src: "secukupnya.mp3"
     },
     {
-      title:"yang tlah merelakanmu",
-      artist:"seventen",
-      img:"yang.jpeg",
-      src:"yang tlah merelakamu.mp3"
+        title: "yang tlah merelakanmu",
+        artist: "seventen",
+        img: "yang.jpeg",
+        src: "yang tlah merelakamu.mp3" 
     },
     {
-      title:"cinta sejati",
-      artist:"bcl",
-      img:"cinta sejati.jpeg",
-      src:"cinta sejati.mp3"
+        title: "cinta sejati",
+        artist: "bcl",
+        img: "cinta sejati.jpeg",
+        src: "cinta sejati.mp3"
     },
     {
-      title:"terpikat senyumu",
-      artist:"idgitaf",
-      img:"terpikat.jpeg",
-      src:"terpikat.mp3"
+        title: "terpikat senyumu",
+        artist: "idgitaf",
+        img: "terpikat.jpeg", // DI FOTO KAMU NAMANYA 'terplkat.jpeg' (pakai huruf L)
+        src: "terpikat.mp3"
     },
     {
-      title:"clbk",
-      artist:"gak tau",
-      img:"clmk.jpeg",
-      src:"clmk.mp3"
+        title: "clbk",
+        artist: "gak tau",
+        img: "clmk.jpeg",
+        src: "clmk.mp3"
     }
 ];
+
 
 // =========================================
 // 🔥 AUTO LOAD MUSIC
